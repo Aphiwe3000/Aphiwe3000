@@ -1,9 +1,9 @@
 - Group name: BoardBrigade
 
-- Group members: Orifanela Mthembu
-- Group members: Anesu Badalani
-- Group members: Demana Ndou
-- Group members: Sabelo Musindo
+- Group member: Orifanela Mthembu
+- Group member: Anesu Badalani
+- Group member: Demana Ndou
+- Group member: Sabelo Musindo
 
 - Project title: Checkers
 
